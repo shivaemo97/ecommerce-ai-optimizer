@@ -15,8 +15,6 @@
     "typescript": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
-    "tailwindcss": "latest",
-    "@tailwindcss/postcss": "latest",
-    "postcss": "latest"
+    "tailwindcss": "latest"
   }
 }
