@@ -10,7 +10,10 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "@google/generative-ai": "^0.1.1",
-    "lucide-react": "latest"
+    "@google/generative-ai": "latest",
+    "lucide-react": "latest",
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest"
   }
 }
